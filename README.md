@@ -3,7 +3,7 @@
 <h1>Dependencies used</h1>
 <p>React Hook Form<p>
 <p>Prettier</p>
-to start 
+to start
 
 ```
 npm install
